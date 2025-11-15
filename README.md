@@ -7,6 +7,8 @@ Since **nothing is encoded**, our input is injected directly into the HTML respo
 
 We’ll craft a script payload, verify its reflection using BurpSuite, then execute it to solve the lab.
 
+[Lab Link](https://portswigger.net/web-security/cross-site-scripting/reflected/lab-html-context-nothing-encoded) <br/>
+
 ![Cover](XSS1/Cover.jpeg)
 
 ---
